@@ -7,5 +7,5 @@ The following files are included:
 - .pgn file that displays the final reverse engineered model
 
 <div>
-  Note 1: I need to publish some adjustments to the contract table as displayed in the entity relationship diagram.
+     Note 1: I need to publish some adjustments to the contract table as displayed in the entity relationship diagram.
 </br>Note 2: I would also like to adjust the size of EntityRelationshipDiagram.png to better fit github. 
