@@ -2,6 +2,7 @@
 <div>
 This repo includes files related to a graduate school project wherein we created a mockup relational database 
 </div>
+
 - I chose my dad's sheet metal shop. 
 
 The following files are included:
