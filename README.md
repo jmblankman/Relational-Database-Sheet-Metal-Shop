@@ -10,5 +10,5 @@ The following files are included:
 Note 1: Some adjustments need to be made to the contract table as displayed in the relational model diagram.
 </div>
 <div>
-- (I have the code on my laptop, but I'm going to clean it up before publishing)
+<p style="text-indent: 40px">(I have the code on my laptop, but I'm going to clean it up before publishing)</p>
 </br>Note 2: I would also like to adjust the size of RelationalModel.png to better fit github. 
