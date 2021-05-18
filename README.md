@@ -8,5 +8,4 @@ The following files are included:
 
 <div>
   Note 1: I need to publish some adjustments need to be made to the contract table as displayed in the relational model diagram.
-<div>
 </br>Note 2: I would also like to adjust the size of RelationalModel.png to better fit github. 
