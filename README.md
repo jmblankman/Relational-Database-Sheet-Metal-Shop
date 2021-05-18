@@ -1,5 +1,5 @@
 ## Relational Database: Sheet Metal Shop
-<div>
+
 This repo includes files related to a graduate school project wherein I created a mockup relational database for my dad's sheet metal shop. 
 
 The following files are included:
