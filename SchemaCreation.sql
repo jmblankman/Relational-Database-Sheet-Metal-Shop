@@ -78,8 +78,7 @@ CREATE TABLE IF NOT EXISTS  `contract` (
   ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `contract_fk2` FOREIGN KEY (`job_id`) REFERENCES `job` (`job_id`)
   ON DELETE CASCADE ON UPDATE CASCADE
-  
-  );
+);
   
   
   
