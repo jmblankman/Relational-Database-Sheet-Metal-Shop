@@ -4,4 +4,6 @@ This repo includes files related to a graduate project wherein I created a mocku
 
 The following files are included:
 - .sql file including the original SQL code
-- .pgn file that displays the created schema 
+- .pgn file that displays the resulting relational model
+
+Note 1: The background of the relational model is a little odd - working on a fix
