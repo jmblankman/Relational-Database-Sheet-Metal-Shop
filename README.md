@@ -1,6 +1,6 @@
 ## Relational Database: Sheet Metal Shop
 
-This repo includes files related to a graduate project wherein my team created a mockup relational database for my dad's sheet metal shop. 
+This repo includes files related to a graduate school project wherein I created a mockup relational database for my dad's sheet metal shop. 
 
 The following files are included:
 - .sql file including the original SQL code
