@@ -3,7 +3,7 @@
 This repo includes files related to a graduate school project wherein I created a mockup relational database for my dad's sheet metal shop. 
 
 The following files are included:
-- .sql file including the original SQL code
+- .sql file including the original mySQL code
 - .pgn file that displays the final reverse engineered model
 
 <div>
