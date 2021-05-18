@@ -6,5 +6,5 @@ The following files are included:
 - .sql file including the original SQL code
 - .pgn file that displays the final reverse engineered model
 
-Note 1: Some minor adjustments need to be made to the contract table as displayed in the relational model diagram. 
+Note 1: Some adjustments need to be made to the contract table as displayed in the relational model diagram. 
 </br>Note 2: I would also like to adjust the size of RelationalModel.png to better fit github. 
