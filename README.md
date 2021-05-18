@@ -5,7 +5,6 @@ This repo includes files related to a graduate school project wherein we created
 <div>
 - I chose my dad's sheet metal shop. 
 
-
 The following files are included:
 - .sql file including the original SQL code
 - .pgn file that displays the final reverse engineered model
